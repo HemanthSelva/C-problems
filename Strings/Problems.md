@@ -2,13 +2,13 @@
 
 **1.	Reverse a String**
 
-Testcase 1:
+**Testcase 1:**
 
   Input: "hello"
   
   Output: "olleh"
   
-Testcase 2:
+**Testcase 2:**
 
   Input: "world"
   
@@ -34,13 +34,13 @@ int main()
 
 **2.	Check if a String is a Palindrome**
 
-Testcase 1:
+**Testcase 1:**
 
   Input: "radar"
   
   Output: true
   
- Testcase 2:
+**Testcase 2:**
  
    Input: "hello"
    
@@ -84,13 +84,13 @@ int main()
 
 **3.	Find the Length of a String**
 
- Testcase 1:
+ **Testcase 1:**
  
 	Input: "hello"
  
 	Output: 5
  
- Testcase 2:
+ **Testcase 2:**
  
 	Input: "world"
  
@@ -116,13 +116,13 @@ int main()
 
 **4.	Concatenate Two Strings**
 
-Testcase 1:
+**Testcase 1:**
 
 	Input: "hello", "world"
         
 	Output: "helloworld"	
   
-Testcase 2:
+**Testcase 2:**
 
 	Input: "foo", "bar"
  
