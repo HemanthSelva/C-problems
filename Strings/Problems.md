@@ -1,11 +1,19 @@
 **Basic String Operations**
+
 **1.	Reverse a String**
+
 Testcase 1:
-	Input: "hello"
+
+  Input: "hello"
+  
   Output: "olleh"
+  
 Testcase 2:
+
   Input: "world"
-	Output: "dlrow"
+  
+  Output: "dlrow"
+  
 **Code**
 ```
 #include<stdio.h>
@@ -23,13 +31,21 @@ int main()
     printf("\n");
 }
 ```
+
 **2.	Check if a String is a Palindrome**
+
 Testcase 1:
+
   Input: "radar"
-	Output: true
+  
+  Output: true
+  
  Testcase 2:
-	Input: "hello"
-	Output: false
+ 
+   Input: "hello"
+   
+   Output: false
+   
 **Code**
 ```
 #include<stdio.h>
@@ -67,12 +83,19 @@ int main()
 ```
 
 **3.	Find the Length of a String**
+
  Testcase 1:
+ 
 	Input: "hello"
+ 
 	Output: 5
+ 
  Testcase 2:
+ 
 	Input: "world"
+ 
 	Output: 5
+ 
 **Code**
 ```
 #include<stdio.h>
@@ -92,13 +115,21 @@ int main()
 ```
 
 **4.	Concatenate Two Strings**
+
 Testcase 1:
+
 	Input: "hello", "world"
-  Output: "helloworld"	
+        
+	Output: "helloworld"	
+  
 Testcase 2:
+
 	Input: "foo", "bar"
+ 
 	Output: "foobar"
+ 
 **Code**
+
 **Method 1**
 ```
 #include<stdio.h>
@@ -130,6 +161,7 @@ int main()
     return 0;
 }
 ```
+
 **Method 2**
 ```
 #include<stdio.h>
